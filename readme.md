@@ -3,7 +3,7 @@
 A simple vertical and horizontal dock with minimal white colored icons.
 
 ## Download MonoDock
-- Download monoDock here -> [MonoDock](https://github.com/nexus949/MonoDock/releases/download/v1.1/MonoDock_1.1.rmskin).
+- Download monoDock here -> [MonoDock](https://github.com/nexus949/MonoDock/releases/download/v1.0/MonoDock_1.0.rmskin).
 
 ## Screenshots
 
